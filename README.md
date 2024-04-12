@@ -1,5 +1,15 @@
 <h2 align="left">Hi 👋! My name is Keshav Jindal and I'm a Computer Science Student, from INDIA .</h2>
 
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Keshav4120.Keshav4120&left_color=grey&right_color=darkviolet&left_text=Visitors"  />
+</div>
+
+###
+
+
 ###
 
 <div align="center">
@@ -7,12 +17,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Keshav4120&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Keshav4120.Keshav4120&left_color=grey&right_color=blue&left_text=Visitors"  />
-</div>
 
-
-###
 
 <img align="right" height="150" src="https://gifdb.com/images/high/roronoa-zoro-forced-smile-17g408sj2pxd8gpe.gif"  />
 
