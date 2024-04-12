@@ -43,10 +43,3 @@
 </p>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="[https://raw.githubusercontent.com/Keshav4120/Keshav4120/output/snake.svg]" alt="Snake animation" />
-
-###
