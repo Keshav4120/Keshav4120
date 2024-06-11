@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Hackathon<br>👯 I’m looking to collaborate on Some Good Project <br>🤝 I’m looking for help with Learning and building some project<br>🌱 I’m currently learning C++<br>💬 You can Ask about my journey of leaning coding and building interest in coding<br>⚡ Fun fact I am a interesting guy 
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ## 🌐 Socials:
