@@ -1,55 +1,27 @@
-<h2 align="left">Hi 👋! My name is Keshav Jindal and I'm a Computer Science Student, from INDIA .</h2>
+# 💫 About Me:
+🔭 I’m currently working on Hackathon<br>👯 I’m looking to collaborate on Some Good Project <br>🤝 I’m looking for help with Learning and building some project<br>🌱 I’m currently learning C++<br>💬 You can Ask about my journey of leaning coding and building interest in coding<br>⚡ Fun fact I am a interesting guy 
 
 
-<br clear="both">
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/keshav-jindal-092088291) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@keshav4120) 
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Keshav4120.Keshav4120&left_color=grey&right_color=darkviolet&left_text=Visitors"  />
-</div>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Keshav4120&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Keshav4120&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Keshav4120&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-###
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Keshav4120&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-###
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keshav4120&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Keshav4120&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=Keshav4120&icon=2&color=0)](https://visitcount.itsvg.in)
 
-
-
-<img align="right" height="150" src="https://gifdb.com/images/high/roronoa-zoro-forced-smile-17g408sj2pxd8gpe.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="left">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/keshav4120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="keshav4120" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/keshav-jindal-092088291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshav-jindal-092088291" height="30" width="40" /></a>
-<a href="https://instagram.com/keshav_4120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="keshav_4120" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jinkes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jinkes" height="30" width="40" /></a>
-</p>
-</div>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
