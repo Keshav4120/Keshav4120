@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on Hackathon<br>👯 I’m looking to collaborate on Some Good Project <br>🤝 I’m looking for help with Learning and building some project<br>🌱 I’m currently learning C++<br>💬 You can Ask about my journey of leaning coding and building interest in coding<br>⚡ Fun fact I am a interesting guy 
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/keshav-jindal-092088291) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@keshav4120) 
@@ -12,8 +14,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Keshav4120&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Keshav4120&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Keshav4120&limit=5&theme=dark&combine_all_yearly_contributions=true)
