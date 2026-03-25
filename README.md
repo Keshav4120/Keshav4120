@@ -1,7 +1,10 @@
+
 # 💫 About Me:
-🔭 I’m currently working on Hackathon<br>👯 I’m looking to collaborate on Some Good Project <br>🤝 I’m looking for help with Learning and building some project<br>🌱 I’m currently learning C++<br>💬 You can Ask about my journey of leaning coding and building interest in coding<br>⚡ Fun fact I am a interesting guy 
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+👯 I’m looking to collaborate on Some Good Project <br>🤝 I’m looking for help with Learning and building some project<br>🌱 I’m currently learning Java<br>💬 You can Ask about my journey of leaning coding and building interest in coding<br>⚡ Fun fact I am a interesting guy <br>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/keshav-jindal-092088291) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@keshav4120) 
